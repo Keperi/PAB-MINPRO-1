@@ -106,4 +106,10 @@ lib/
     └── currency_formatter.dart  # Helper format Rupiah
 ```
 
+## 📷 Dokumentasi Program
+<img width="502" height="859" alt="image" src="https://github.com/user-attachments/assets/89b30c86-caf9-48d7-b4ba-31d4351a9f37" />
+<img width="502" height="859" alt="image" src="https://github.com/user-attachments/assets/d416fab6-d922-4c5d-97c8-03fd40c51896" />
+<img width="502" height="859" alt="image" src="https://github.com/user-attachments/assets/3592ef36-28c7-41c1-8ec4-935a3d1e4a76" />
+<img width="502" height="859" alt="image" src="https://github.com/user-attachments/assets/bb736915-f38f-45b4-bab1-01acd0697bf4" />
+
 ---
