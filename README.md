@@ -107,5 +107,3 @@ lib/
 ```
 
 ---
-
-> Dibuat dengan Flutter 💙
